@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:fontFamily="@font/poppins"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/chatbot"
+        android:title="Chatbots"
+        android:fontFamily="@font/poppins"
+        android:icon="@drawable/ic_chatbot"/>
+    <item
+        android:id="@+id/mbti"
+        android:title="MBTI"
+        android:fontFamily="@font/poppins"
+        android:icon="@drawable/ic_help"/>
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:fontFamily="@font/poppins"
+        android:icon="@drawable/ic_settings"/>
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:fontFamily="@font/poppins"
+        android:icon="@drawable/ic_person"/>
+</menu>
